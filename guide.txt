@@ -1,9 +1,0 @@
-This is the Main trigger which the bot can detect.
-This is a message widget which simply sends out the text data
-This is a widget for getting data from User  and it has different options 
-Then the further widgets are splitted based on the User Input
-Then we ask further details
-Here we ask Order Id and then apply a function for checking the data
-Here i have applied the request for getting data from API using Node js with axios library
-Then we get output and display to the user
-Same applies to this flow here we send the email using the function 
